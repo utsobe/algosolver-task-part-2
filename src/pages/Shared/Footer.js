@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div className='bg-base-200'>
-            <div className='max-w-7xl mx-auto px-6'>
+            <div className='max-w-7xl mx-auto lg:px-6'>
                 <footer class="footer p-10 text-base-content">
                     <div>
                         <span class="footer-title">Services</span>
@@ -38,6 +38,8 @@ const Footer = () => {
                         </div>
                     </div>
                 </footer>
+                <div class="divider"></div>
+                <p className='text-center mb-6'><small>Copyright © 2022 - All right reserved by Utsobe 俊哲</small></p>
             </div>
         </div>
     );
