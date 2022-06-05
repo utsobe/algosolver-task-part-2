@@ -11,7 +11,7 @@ const Banner = () => {
                                 <img src={Banner1} class="w-full lg:max-w-md" alt='' />
                                 <div>
                                     <h1 class="text-5xl font-semibold">It's Bootstrap Template</h1>
-                                    <p class="py-6 text-slate-400	">There is now an abundance of readable dummy texts. These are usually used when a text is required purely to fill a space.</p>
+                                    <p class="py-6 text-slate-500">There is now an abundance of readable dummy texts. These are usually used when a text is required purely to fill a space.</p>
                                     <button class="btn btn-primary">Get Started</button>
                                 </div>
                             </div>
