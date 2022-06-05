@@ -3,6 +3,7 @@ import Footer from '../Shared/Footer';
 import About from './About';
 import Advantage from './Advantage';
 import Banner from './Banner';
+import Feature from './Feature';
 
 const Home = () => {
     return (
@@ -10,6 +11,7 @@ const Home = () => {
             <Banner />
             <Advantage />
             <About />
+            <Feature />
             <Footer />
         </>
     );

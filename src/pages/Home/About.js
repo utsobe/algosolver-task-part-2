@@ -19,7 +19,7 @@ const About = () => {
                 </div>
                 <div>
                     <h3 className='text-2xl text-primary mb-2'>About Us</h3>
-                    <h2 className='text-4xl'>Our mission is to
+                    <h2 className='text-4xl font-semibold'>Our mission is to
                         make your life easier.</h2>
                     <p className='text-slate-500 py-8'>Lorem, ipsum dolor sit amet consectetur adipisicing elit quod debitis praesentium pariatur temporibus ipsa, cum quidem obcaecati sunt?</p>
                     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-7'>
